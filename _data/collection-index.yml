@@ -962,3 +962,8 @@
   contact: https://github.com/davzucky/devcontainers-features-wolfi/issues
   repository: https://github.com/davzucky/devcontainers-features-wolfi
   ociReference: ghcr.io/davzucky/devcontainers-features-wolfi  
+- name: Community features by devcontainer.community
+  maintainer: devcontainer.community
+  contact: https://devcontainer.community
+  repository: https://github.com/devcontainer-community/devcontainer-features
+  ociReference: ghcr.io/devcontainer-community/devcontainer-features
